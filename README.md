@@ -1,4 +1,4 @@
-# 🚀 FoundrStreak
+#  FoundrStreak
 
 **FoundrStreak** is the social + productivity platform that helps startup founders stay consistent, build in public, and win their game — one day at a time.
 
@@ -6,7 +6,7 @@ We believe **consistency is a superpower**, and founders who show up daily are t
 
 ---
 
-## 🌟 What is FoundrStreak?
+##  What is FoundrStreak?
 
 FoundrStreak is a community-driven space where startup founders:
 - 🔥 Log their daily progress in under 2 minutes
